@@ -2,6 +2,9 @@
 Lab and tutorial files for students
 
 ### Important: 
+
+### Project Deadline: Monday December 9, 2019 at 6:00 pm at the latest
+
 The project folder in this repo contains the four files mentioned in the Project document provided by Dr. Kiringa in his earlier email.
 The project is a group project with a max of 4 members. On completing the project you can present it to the lab TA's and then send it
 as an email to your lab TA for final evaluation. 
@@ -32,6 +35,12 @@ Tut A02: Hariprasad Ramakrishnan (hrama039atuottawadotca)
 
 
 ### Updates 
+7 : 21/11/2019 
+### Project Deadline: Monday December 9, 2019 at 6:00 pm at the latest
+
+6 : 21/11/2019
+Project Folder : Guidelines for projected uploaded (Updated 20/11/2019)
+
 5 : 25/10/2019
 Lab 5: Postgres installation and links that will be helpful as a reference (Updated 7/11/2019)
 
